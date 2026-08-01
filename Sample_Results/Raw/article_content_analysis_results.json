@@ -1,0 +1,712 @@
+{
+    "English": {
+        "article_length": 100299,
+        "plsa_scores": {
+            "mean_raw": -0.4613,
+            "mean_con": -0.2763,
+            "median_raw": 0.0,
+            "median_con": 0.0
+        },
+        "absa_scores": {
+            "kennedy": {
+                "mean_raw": 0.2773,
+                "mean_con": 0.2585,
+                "median_raw": 0.72,
+                "median_con": 0.612
+            },
+            "president": {
+                "mean_raw": 0.1353,
+                "mean_con": 0.1335,
+                "median_raw": 0.43,
+                "median_con": 0.3526
+            },
+            "united states": {
+                "mean_raw": 0.1233,
+                "mean_con": 0.1147,
+                "median_raw": 0.42,
+                "median_con": 0.3526
+            },
+            "american": {
+                "mean_raw": -0.0947,
+                "mean_con": -0.0684,
+                "median_raw": -0.43,
+                "median_con": -0.3526
+            },
+            "berlin": {
+                "mean_raw": -0.104,
+                "mean_con": -0.0826,
+                "median_raw": -0.05,
+                "median_con": -0.0425
+            },
+            "soviet": {
+                "mean_raw": -0.3173,
+                "mean_con": -0.2607,
+                "median_raw": -0.43,
+                "median_con": -0.3526
+            },
+            "administration": {
+                "mean_raw": -0.2107,
+                "mean_con": -0.1733,
+                "median_raw": -0.42,
+                "median_con": -0.357
+            },
+            "vietnam": {
+                "mean_raw": -0.1373,
+                "mean_con": -0.1147,
+                "median_raw": -0.05,
+                "median_con": -0.0425
+            },
+            "cuba": {
+                "mean_raw": -0.2207,
+                "mean_con": -0.1904,
+                "median_raw": -0.23,
+                "median_con": -0.1955
+            },
+            "assassination": {
+                "mean_raw": -0.5827,
+                "mean_con": -0.5083,
+                "median_raw": -0.51,
+                "median_con": -0.4335
+            },
+            "life": {
+                "mean_raw": -0.0493,
+                "mean_con": -0.0459,
+                "median_raw": -0.42,
+                "median_con": -0.3526
+            },
+            "military": {
+                "mean_raw": -0.1847,
+                "mean_con": -0.1542,
+                "median_raw": -0.42,
+                "median_con": -0.3526
+            },
+            "civil rights": {
+                "mean_raw": -0.156,
+                "mean_con": -0.1371,
+                "median_raw": -0.43,
+                "median_con": -0.357
+            }
+        },
+        "headings": [
+            "Early life and education",
+            "U.S. Naval Reserve (1941–1945)",
+            "Journalism (1945)",
+            "U.S. House of Representatives (1947–1953)",
+            "U.S. Senate (1953–1960)",
+            "1960 presidential election",
+            "Presidency (1961–1963)",
+            "Assassination",
+            "Personal life, family, and reputation",
+            "Historical evaluations and legacy",
+            "Works",
+            "See also",
+            "Notes",
+            "References",
+            "Further reading",
+            "External links"
+        ],
+        "subheadings": [
+            "Commanding PT-109 and PT-59",
+            "Foreign policy",
+            "Domestic policy",
+            "Judicial appointments",
+            "Funeral",
+            "Wife and children",
+            "Popular image",
+            "Health",
+            "Affairs and friendships",
+            "Sports",
+            "Religion",
+            "Presidency",
+            "Memorials and eponyms",
+            "Books",
+            "Select speeches",
+            "Citations",
+            "Works cited",
+            "Cold War and flexible response",
+            "Decolonization and the Congo Crisis",
+            "Peace Corps",
+            "Vienna Summit and the Berlin Wall",
+            "Bay of Pigs Invasion",
+            "Operation Mongoose",
+            "Cuban Missile Crisis",
+            "Latin America and communism",
+            "Laos",
+            "Vietnam",
+            "West Berlin speech",
+            "Middle East",
+            "Ireland",
+            "American University speech",
+            "Nuclear Test Ban Treaty",
+            "New Frontier",
+            "Taxes",
+            "Economy",
+            "Civil rights movement",
+            "Status of women",
+            "Crime",
+            "Agriculture",
+            "Native American relations",
+            "Space policy",
+            "Camelot"
+        ],
+        "lda_topics": {
+            "U.S.": 0.0871,
+            "massachusetts": 0.0421,
+            "president": 0.0379,
+            "john": 0.0361,
+            "american": 0.0276,
+            "boston": 0.0254,
+            "federal": 0.0246,
+            "berlin": 0.0182,
+            "house": 0.0172,
+            "nuclear": 0.0168,
+            "military": 0.0159,
+            "act": 0.0153,
+            "program": 0.0139,
+            "bill": 0.0135,
+            "war": 0.0134,
+            "east": 0.0134,
+            "space": 0.0124,
+            "support": 0.0114,
+            "vietnam": 0.0113,
+            "presidential": 0.0112,
+            "soviet": 0.011,
+            "senate": 0.0105,
+            "cuba": 0.0101,
+            "housing": 0.0092,
+            "johnson": 0.0069,
+            "committee": 0.0069,
+            "political": 0.0069,
+            "congress": 0.0069,
+            "khrushchev": 0.0065,
+            "hospital": 0.0062,
+            "germany": 0.0062,
+            "kennedy administration": 0.0062,
+            "soviet union": 0.006,
+            "states": 0.0059,
+            "united": 0.0059,
+            "john kennedy": 0.0059,
+            "joe": 0.0058,
+            "nixon": 0.0055,
+            "oswald": 0.0055,
+            "west": 0.0054
+        },
+        "topic_sentiment": {
+            "mean_raw": 0.3362,
+            "mean_con": 0.2813,
+            "median_raw": 0.42,
+            "median_con": 0.3486
+        },
+        "heading_sentiment": {
+            "mean_raw": 0.319,
+            "mean_con": 0.2654,
+            "median_raw": 0.42,
+            "median_con": 0.3402
+        }
+    },
+    "Russian": {
+        "article_length": 39810,
+        "plsa_scores": {
+            "mean_raw": -0.1239,
+            "mean_con": -0.0652,
+            "median_raw": 0.0,
+            "median_con": 0.0
+        },
+        "absa_scores": {
+            "kennedy": {
+                "mean_raw": 0.4479,
+                "mean_con": 0.3987,
+                "median_raw": 0.43,
+                "median_con": 0.357
+            },
+            "president": {
+                "mean_raw": 0.055,
+                "mean_con": 0.0568,
+                "median_raw": 0.0,
+                "median_con": 0.0
+            },
+            "united states": {
+                "mean_raw": 0.1014,
+                "mean_con": 0.1005,
+                "median_raw": 0.12,
+                "median_con": 0.102
+            },
+            "american": {
+                "mean_raw": 0.205,
+                "mean_con": 0.1873,
+                "median_raw": 0.42,
+                "median_con": 0.3526
+            },
+            "berlin": {
+                "mean_raw": -0.0907,
+                "mean_con": -0.0757,
+                "median_raw": 0.0,
+                "median_con": 0.0
+            },
+            "soviet": {
+                "mean_raw": -0.2679,
+                "mean_con": -0.224,
+                "median_raw": -0.43,
+                "median_con": -0.3526
+            },
+            "administration": {
+                "mean_raw": -0.1536,
+                "mean_con": -0.127,
+                "median_raw": -0.43,
+                "median_con": -0.3526
+            },
+            "vietnam": {
+                "mean_raw": -0.12,
+                "mean_con": -0.1018,
+                "median_raw": -0.13,
+                "median_con": -0.1105
+            },
+            "cuba": {
+                "mean_raw": -0.1686,
+                "mean_con": -0.1421,
+                "median_raw": -0.13,
+                "median_con": -0.1105
+            },
+            "assassination": {
+                "mean_raw": -0.5857,
+                "mean_con": -0.5227,
+                "median_raw": -0.83,
+                "median_con": -0.7636
+            },
+            "life": {
+                "mean_raw": 0.1493,
+                "mean_con": 0.1293,
+                "median_raw": 0.42,
+                "median_con": 0.3526
+            },
+            "military": {
+                "mean_raw": -0.0164,
+                "mean_con": -0.0054,
+                "median_raw": 0.0,
+                "median_con": 0.0
+            },
+            "civil rights": {
+                "mean_raw": -0.05,
+                "mean_con": -0.0389,
+                "median_raw": 0.0,
+                "median_con": 0.0
+            }
+        },
+        "headings": [
+            "Biography",
+            "=World War II",
+            "Memory",
+            "Awards",
+            "Aphorisms of John Kennedy",
+            "Documentaries",
+            "See also",
+            "Notes",
+            "Literature",
+            "Links"
+        ],
+        "subheadings": [
+            "Birth and Early Years",
+            "Secondary Education",
+            "World War II",
+            "The Start of a Political Career",
+            "The 1960 Presidential Campaign",
+            "President of the United States (1961-1963)",
+            "Death",
+            "Domestic Policy",
+            "Foreign Policy",
+            "Family",
+            "Affair with Marilyn Monroe"
+        ],
+        "lda_topics": {
+            "kennedy": 0.5146,
+            "john kennedy": 0.142,
+            "john": 0.0877,
+            "president": 0.0836,
+            "school": 0.0513,
+            "family": 0.0493,
+            "new": 0.044,
+            "assassination": 0.0436,
+            "time": 0.0413,
+            "political": 0.0383,
+            "joseph": 0.0381,
+            "senator": 0.0339,
+            "massachusetts": 0.0293,
+            "government": 0.0244,
+            "joe": 0.0242,
+            "father": 0.0237,
+            "university": 0.0236,
+            "documentary": 0.0228,
+            "administration": 0.0221,
+            "american": 0.0221,
+            "particularly": 0.018,
+            "book": 0.0178,
+            "died": 0.0154,
+            "USSR": 0.015,
+            "naval": 0.0141,
+            "house": 0.0133,
+            "economic": 0.0133,
+            "million": 0.0125,
+            "policy": 0.0122,
+            "served": 0.0117,
+            "war": 0.0115,
+            "rose": 0.0112,
+            "received": 0.0111,
+            "months": 0.0109,
+            "people": 0.0109,
+            "year": 0.0108,
+            "campaign": 0.0108,
+            "USA": 0.0104,
+            "boston": 0.0098,
+            "united states": 0.0089
+        },
+        "topic_sentiment": {
+            "mean_raw": 0.4452,
+            "mean_con": 0.3761,
+            "median_raw": 0.5,
+            "median_con": 0.375
+        },
+        "heading_sentiment": {
+            "mean_raw": 0.4705,
+            "mean_con": 0.4079,
+            "median_raw": 0.72,
+            "median_con": 0.612
+        }
+    },
+    "Spanish": {
+        "article_length": 73557,
+        "plsa_scores": {
+            "mean_raw": -0.2995,
+            "mean_con": -0.2044,
+            "median_raw": 0.0,
+            "median_con": 0.0
+        },
+        "absa_scores": {
+            "kennedy": {
+                "mean_raw": 0.3714,
+                "mean_con": 0.3409,
+                "median_raw": 0.43,
+                "median_con": 0.357
+            },
+            "president": {
+                "mean_raw": 0.1407,
+                "mean_con": 0.1374,
+                "median_raw": 0.0,
+                "median_con": 0.0
+            },
+            "united states": {
+                "mean_raw": 0.1764,
+                "mean_con": 0.1677,
+                "median_raw": 0.42,
+                "median_con": 0.3526
+            },
+            "american": {
+                "mean_raw": -0.07,
+                "mean_con": -0.0463,
+                "median_raw": -0.42,
+                "median_con": -0.3526
+            },
+            "berlin": {
+                "mean_raw": -0.1929,
+                "mean_con": -0.158,
+                "median_raw": -0.42,
+                "median_con": -0.357
+            },
+            "soviet": {
+                "mean_raw": -0.4329,
+                "mean_con": -0.3568,
+                "median_raw": -0.43,
+                "median_con": -0.3655
+            },
+            "administration": {
+                "mean_raw": -0.1729,
+                "mean_con": -0.1366,
+                "median_raw": -0.43,
+                "median_con": -0.357
+            },
+            "vietnam": {
+                "mean_raw": -0.2229,
+                "mean_con": -0.1793,
+                "median_raw": -0.42,
+                "median_con": -0.3526
+            },
+            "cuba": {
+                "mean_raw": -0.1457,
+                "mean_con": -0.1166,
+                "median_raw": -0.42,
+                "median_con": -0.357
+            },
+            "assassination": {
+                "mean_raw": -0.7,
+                "mean_con": -0.6221,
+                "median_raw": -0.83,
+                "median_con": -0.7636
+            },
+            "life": {
+                "mean_raw": -0.0143,
+                "mean_con": -0.0027,
+                "median_raw": -0.42,
+                "median_con": -0.3526
+            },
+            "military": {
+                "mean_raw": -0.0414,
+                "mean_con": -0.0216,
+                "median_raw": -0.43,
+                "median_con": -0.3526
+            },
+            "civil rights": {
+                "mean_raw": -0.0636,
+                "mean_con": -0.0497,
+                "median_raw": -0.43,
+                "median_con": -0.3526
+            }
+        },
+        "headings": [
+            "Biography",
+            "Social and Family Life",
+            "Posthumous Tributes",
+            "Film and television portrayals",
+            "Notes",
+            "References",
+            "References in English",
+            "Bibliografía en español",
+            "External links"
+        ],
+        "subheadings": [
+            "Childhood and Youth",
+            "Funeral and Burial",
+            "Cabinet",
+            "Supreme Court Appointees",
+            "Films",
+            "Television",
+            "Fuentes primarias",
+            "Fuentes secundarias",
+            "Economy",
+            "Immigration"
+        ],
+        "lda_topics": {
+            "president": 0.1309,
+            "john": 0.0771,
+            "john kennedy": 0.0591,
+            "assassination": 0.0513,
+            "school": 0.0448,
+            "years": 0.0282,
+            "united states": 0.028,
+            "U.S.": 0.0268,
+            "berlin": 0.0238,
+            "named": 0.0209,
+            "state": 0.0191,
+            "speech": 0.0183,
+            "country": 0.0174,
+            "robert": 0.0155,
+            "university": 0.0151,
+            "public": 0.0147,
+            "military": 0.0145,
+            "cuban": 0.0137,
+            "debate": 0.0136,
+            "support": 0.0124,
+            "called": 0.0115,
+            "nixon": 0.0112,
+            "oswald": 0.0102,
+            "war": 0.0101,
+            "honor": 0.0101,
+            "senator": 0.0099,
+            "west": 0.0099,
+            "presidential": 0.0098,
+            "renamed": 0.0093,
+            "american": 0.0083,
+            "traveled": 0.0074,
+            "cuba": 0.0073,
+            "national": 0.0073,
+            "inaugural": 0.0073,
+            "jackie": 0.0072,
+            "children": 0.007,
+            "space": 0.0069,
+            "year": 0.0068,
+            "boat": 0.0064,
+            "presidency": 0.0063
+        },
+        "topic_sentiment": {
+            "mean_raw": 0.3715,
+            "mean_con": 0.3064,
+            "median_raw": 0.42,
+            "median_con": 0.3528
+        },
+        "heading_sentiment": {
+            "mean_raw": 0.3658,
+            "mean_con": 0.3061,
+            "median_raw": 0.42,
+            "median_con": 0.3402
+        }
+    },
+    "Vietnamese": {
+        "article_length": 32717,
+        "plsa_scores": {
+            "mean_raw": -0.0108,
+            "mean_con": 0.0022,
+            "median_raw": 0.0,
+            "median_con": 0.0
+        },
+        "absa_scores": {
+            "kennedy": {
+                "mean_raw": 0.7654,
+                "mean_con": 0.685,
+                "median_raw": 0.83,
+                "median_con": 0.7636
+            },
+            "president": {
+                "mean_raw": 0.2677,
+                "mean_con": 0.2402,
+                "median_raw": 0.43,
+                "median_con": 0.3526
+            },
+            "united states": {
+                "mean_raw": 0.2908,
+                "mean_con": 0.2489,
+                "median_raw": 0.42,
+                "median_con": 0.3402
+            },
+            "american": {
+                "mean_raw": 0.0962,
+                "mean_con": 0.0872,
+                "median_raw": 0.42,
+                "median_con": 0.3402
+            },
+            "berlin": {
+                "mean_raw": -0.1077,
+                "mean_con": -0.0902,
+                "median_raw": -0.13,
+                "median_con": -0.1105
+            },
+            "soviet": {
+                "mean_raw": -0.4369,
+                "mean_con": -0.3628,
+                "median_raw": -0.42,
+                "median_con": -0.3526
+            },
+            "administration": {
+                "mean_raw": -0.2662,
+                "mean_con": -0.2275,
+                "median_raw": -0.42,
+                "median_con": -0.3526
+            },
+            "vietnam": {
+                "mean_raw": 0.1631,
+                "mean_con": 0.1476,
+                "median_raw": 0.42,
+                "median_con": 0.357
+            },
+            "cuba": {
+                "mean_raw": -0.1654,
+                "mean_con": -0.1391,
+                "median_raw": -0.13,
+                "median_con": -0.1105
+            },
+            "assassination": {
+                "mean_raw": -0.7,
+                "mean_con": -0.6325,
+                "median_raw": -0.83,
+                "median_con": -0.7636
+            },
+            "life": {
+                "mean_raw": 0.2254,
+                "mean_con": 0.204,
+                "median_raw": 0.42,
+                "median_con": 0.357
+            },
+            "military": {
+                "mean_raw": -0.0869,
+                "mean_con": -0.068,
+                "median_raw": -0.42,
+                "median_con": -0.3486
+            },
+            "civil rights": {
+                "mean_raw": 0.0354,
+                "mean_con": 0.0373,
+                "median_raw": 0.0,
+                "median_con": 0.0
+            }
+        },
+        "headings": [
+            "Childhood",
+            "Military Service",
+            "Political Entry",
+            "Presidential Campaign",
+            "President of the United States",
+            "Image, Social Life and Family",
+            "The Kennedy Assassination (1963)",
+            "Legacy",
+            "Works",
+            "Criticisms",
+            "Famous Quote",
+            "See also",
+            "Notes",
+            "References",
+            "External Links"
+        ],
+        "subheadings": [
+            "Education",
+            "Foreign Policy",
+            "Domestic Policy",
+            "Space Program",
+            "Cabinet",
+            "Supreme Court Appointments",
+            "1963 Assassination",
+            "Main Document",
+            "Supplementary Document"
+        ],
+        "lda_topics": {
+            "john": 0.1167,
+            "president": 0.1114,
+            "U.S.": 0.0889,
+            "john kennedy": 0.086,
+            "war": 0.0791,
+            "united states": 0.0555,
+            "time": 0.0529,
+            "public": 0.0527,
+            "assassination": 0.0526,
+            "oswald": 0.0449,
+            "school": 0.042,
+            "american": 0.0362,
+            "television": 0.0355,
+            "life": 0.035,
+            "world": 0.0329,
+            "children": 0.0322,
+            "senator": 0.031,
+            "democratic": 0.03,
+            "father": 0.0274,
+            "robert": 0.0246,
+            "brother": 0.0236,
+            "king": 0.0233,
+            "jr.": 0.0228,
+            "university": 0.0227,
+            "death": 0.0224,
+            "senate": 0.0218,
+            "nuclear": 0.0204,
+            "cuban": 0.0202,
+            "berlin": 0.0202,
+            "presidency": 0.0188,
+            "military": 0.0185,
+            "support": 0.0174,
+            "harvard": 0.0173,
+            "cuba": 0.0163,
+            "massachusetts": 0.0143,
+            "students": 0.0137,
+            "soviet union": 0.0135,
+            "despite": 0.0135,
+            "called": 0.0132,
+            "people": 0.0128
+        },
+        "topic_sentiment": {
+            "mean_raw": 0.2735,
+            "mean_con": 0.2322,
+            "median_raw": 0.42,
+            "median_con": 0.3528
+        },
+        "heading_sentiment": {
+            "mean_raw": 0.2867,
+            "mean_con": 0.2378,
+            "median_raw": 0.42,
+            "median_con": 0.3402
+        }
+    }
+}
