@@ -40,13 +40,26 @@ The analysis results for each Cold War figure were compiled and visualised, in o
 <img width="800" height="430" alt="Image" src="https://github.com/user-attachments/assets/2233023a-6155-4f85-9800-001bebdbe505" />  
 <img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/135f69f3-49fc-4e90-82a4-9b8f27484df6" />  
 
-## Contents
-WIP.  
 
-
-## License
-WIP.  
+## Repository Contents
+- Project_Code - Contains the project code files.
+- Example_Input_Data - Contains a sample of the article content and edit data files produced by the data collection programs (for John F. Kennedy's Wikipedia article).
+- Sample_Results - Contains a sample of the project results files produced by the analysis programs (for John F. Kennedy's article).
 
 
 ## Attribution
-WIP.  
+Sources of data:  
+- Wikipedia articles (plaintext only)  
+- Wiki Replicas databases (data extracted via Wikimedia's (Quarry)[https://meta.wikimedia.org/wiki/Research:Quarry] and (PAWS)[https://wikitech.wikimedia.org/wiki/PAWS] services)  
+
+NLP models used:
+- (cardiffnlp/twitter-xlm-roberta-base-sentiment)[https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base-sentiment] (Hugging Face)  
+- (pilardi/sentiment-analysis:llama3 )[https://ollama.com/pilardi/sentiment-analysis:llama3] (Ollama)  
+
+
+## License
+The contents of the 'Article_Text' files within the 'Example_Input_Data' folder were sourced from Wikipedia, and are thus licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+
+All other materials within this repository are licensed under the MIT License.  
+
+See the `LICENSE` and `LICENSE-CC-BY-SA` files for the full license texts.  
