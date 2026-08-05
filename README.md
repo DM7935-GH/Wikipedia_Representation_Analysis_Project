@@ -42,9 +42,9 @@ The analysis results for each Cold War figure were compiled and visualised, in o
 
 
 ## Repository Contents
-- Project_Code - Contains the project code files.
-- Example_Input_Data - Contains a sample of the article content and edit data files produced by the data collection programs (for John F. Kennedy's Wikipedia article).
-- Sample_Results - Contains a sample of the project results files produced by the analysis programs (for John F. Kennedy's article).
+- `Project_Code` - Contains the project code files.
+- `Example_Input_Data` - Contains a sample of the article content and edit data files produced by the data collection programs (for John F. Kennedy's Wikipedia article).
+- `Sample_Results` - Contains a sample of the project results files produced by the analysis programs (for John F. Kennedy's article).
 
 
 ## Attribution
@@ -58,7 +58,7 @@ NLP models used:
 
 
 ## License
-The contents of the 'Article_Text' files within the 'Example_Input_Data' folder were sourced from Wikipedia, and are thus licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+The contents of the `Article_Text` files within the `Example_Input_Data` folder were sourced from Wikipedia, and are thus licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
 
 All other materials within this repository are licensed under the MIT License.  
 
