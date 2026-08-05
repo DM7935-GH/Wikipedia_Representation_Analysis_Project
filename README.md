@@ -5,7 +5,8 @@ on Wikipedia Using Computational Methods". It also includes examples of input da
 
 ## Project Description
 #### Background
-Wikipedia is one of the most popular digital sources of information, which gives it a significant amount of influence over how topics are represented online. The articles in Wikipedia's 340+ language editions are created and edited by volunteers from across the world. However, overall contribution to the website is dominated by people from more developed countries. Representations of the same topic (in terms of the information included, opinions expressed, and tone) often differ across language editions, raising the question of whether some perspectives are more influential than others.
+Wikipedia is one of the most popular digital sources of information, which gives it a significant amount of influence over how topics are represented online. The articles in Wikipedia's 340+ language editions are created and edited by volunteers from across the world.  
+However, overall contribution to the website is dominated by people from more developed countries. Representations of the same topic (in terms of the information included, opinions expressed, and tone) often differ across language editions, raising the question of whether some perspectives are more influential than others.
 
 #### Objectives
 The project aims to investigate:  
@@ -14,6 +15,7 @@ The project aims to investigate:
 
 #### Data Collection
 12 prominent Cold War figures were chosen for this project, with 3-5 article editions (the version of an article in a given language edition) being selected for each figure.  
+
 For each article edition, the dataset included:  
 - The plaintext content of the article.  
 - Specific data on every edit made to the article, including the edit timestamp and IP address of the editor.  
