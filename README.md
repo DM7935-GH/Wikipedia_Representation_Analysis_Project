@@ -50,11 +50,11 @@ The analysis results for each Cold War figure were compiled and visualised, in o
 ## Attribution
 Sources of data:  
 - Wikipedia articles (plaintext only)  
-- Wiki Replicas databases (data extracted via Wikimedia's (Quarry)[https://meta.wikimedia.org/wiki/Research:Quarry] and (PAWS)[https://wikitech.wikimedia.org/wiki/PAWS] services)  
+- Wiki Replicas databases (data extracted via Wikimedia's [Quarry](https://meta.wikimedia.org/wiki/Research:Quarry) and [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) services)  
 
 NLP models used:
-- (cardiffnlp/twitter-xlm-roberta-base-sentiment)[https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base-sentiment] (Hugging Face)  
-- (pilardi/sentiment-analysis:llama3 )[https://ollama.com/pilardi/sentiment-analysis:llama3] (Ollama)  
+- [cardiffnlp/twitter-xlm-roberta-base-sentiment](https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base-sentiment) (Hugging Face)  
+- [pilardi/sentiment-analysis:llama3](https://ollama.com/pilardi/sentiment-analysis:llama3) (Ollama)  
 
 
 ## License
