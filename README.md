@@ -10,7 +10,9 @@ Wikipedia is one of the most popular digital sources of information, which gives
 However, overall contribution to the website is dominated by people from more developed countries. Representations of the same topic (in terms of the information included, opinions expressed, and tone) often differ across language editions, raising the question of whether some perspectives are more influential than others.
 
 ### Objectives
-The project aims to investigate:  
+The overall aim of this project is to analyse the differences in Wikipedia article content and editing activity across several of its language editions.  
+
+More specifically, the project aims to investigate:  
 - Whether the representation of important historical figures (specifically, from the Cold War era) varies between different editions of Wikipedia.  
 - Which countries' Wikipedia editors contribute the most to these articles.  
 
