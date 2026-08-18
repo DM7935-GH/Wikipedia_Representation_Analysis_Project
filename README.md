@@ -17,7 +17,7 @@ More specifically, the project aims to investigate:
 - Which countries' Wikipedia editors contribute the most to these articles.  
 
 ### Data Collection
-12 prominent Cold War figures were chosen for this project, with 3-5 article editions (the version of an article in a given language edition) being selected for each figure.  
+12 prominent Cold War figures were chosen for this project, with 3-5 article editions (an 'article edition' is the version of an article in a given language edition) being selected for each figure. Note that in the majority of cases, Wikipedia article editions are written semi-independently, rather than being direct translations of each other.  
 
 For each article edition, the dataset included:  
 - The plaintext content of the article.  
@@ -37,10 +37,21 @@ The edit data for each article edition was analysed based on frequency:
 
 <img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/536907d5-4491-41bc-80cb-4631006280ae" />  
 
-The analysis results for each Cold War figure were compiled and visualised, in order to interpret and compare them more easily. Two examples are given below:  
+A key strength of this project is that both the data collection process and methodology can be used on any Wikipedia article, provided that it contains enough content and/or has received enough edits.  
+
+### Analysis Results
+For each article (Cold War figure), the following results are produced by the analysis programs:
+- An averaged (paragraph-level) sentiment score for each language edition.
+- Aspect-based sentiment scores for each edition (a list of aspects to use for this can either be manually given or automatically generated).
+- A list of each edition's prominent topics.
+- The number of edits made in each year to each edition.
+- The number of editors that come from each country, for each edition.
+
+The analysis programs were also used to create visualisations of these results, in order to interpret and compare them more easily. Two examples are given below:  
 
 <img width="800" height="430" alt="Image" src="https://github.com/user-attachments/assets/2233023a-6155-4f85-9800-001bebdbe505" />  
 <img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/135f69f3-49fc-4e90-82a4-9b8f27484df6" />  
+
 
 
 ## Repository Contents
